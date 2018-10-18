@@ -1,0 +1,241 @@
+<Screen
+	CID = "346247186"
+	AppID = "2"
+	AppVer = "5.1.167.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1724989251"
+			Type = "WebPagePart"
+			X = "578"
+			Y = "167"
+			Width = "163"
+			Height = "435"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			Theme = ""
+			Part = ""
+			Style = ""
+			FillColour = "255,255,255,0,0"
+			MarginLeft = "12"
+			MarginRight = "12"
+			MarginTop = "12"
+			MarginBottom = "12"
+			Fill = "None"/>
+		<Element
+			CID = "1724997123"
+			Type = "MenuPanel"
+			X = "578"
+			Y = "167"
+			Width = "159"
+			Height = "430"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			Theme = ""
+			Part = ""
+			Style = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "39"
+			LeftMargin = "0"
+			RightMargin = "16"
+			Mirror = "0"
+			HasTitle = "0"
+			Title = "Location"
+			ResizeOption = "None">
+			<MenuPanelItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "Location"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "7"
+				Type = "CommandOption"
+				Item = "     Hòa Khánh"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "9"
+				Type = "Separator"
+				Item = "     Hòa Khánh"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "8"
+				Type = "CommandOption"
+				Item = "     Hải Châu"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "10"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "11"
+				Type = "CommandOption"
+				Item = "     Sơn Trà"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "13"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "14"
+				Type = "CommandOption"
+				Item = "     Cẩm Lệ"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "12"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "15"
+				Type = "CommandOption"
+				Item = "     Ngũ Hành Sơn"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "16"
+				Type = "Separator"
+				Item = "Ngũ Hành Sơn"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "Price"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "17"
+				Type = "Separator"
+				Item = "Price"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "18"
+				Type = "CommandOption"
+				Item = "     100 - 500VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "21"
+				Type = "Separator"
+				Item = "100 - 500VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "20"
+				Type = "CommandOption"
+				Item = "     500 - 1000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "22"
+				Type = "Separator"
+				Item = "500 - 1000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "23"
+				Type = "CommandOption"
+				Item = "     1000 - 2000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "24"
+				Type = "Separator"
+				Item = "1000 - 2000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "25"
+				Type = "CommandOption"
+				Item = "     2000 - 5000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "27"
+				Type = "Separator"
+				Item = "     2000 - 5000VND"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "Time"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "28"
+				Type = "Separator"
+				Item = "Time"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "29"
+				Type = "CommandOption"
+				Item = "     1-3 days"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "30"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "31"
+				Type = "CommandOption"
+				Item = "     3-5 days"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "32"
+				Type = "Separator"
+				Item = "3-5 days"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "33"
+				Type = "CommandOption"
+				Item = "     5-7 days"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "34"
+				Type = "Separator"
+				Item = ""
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "35"
+				Type = "CommandOption"
+				Item = "     2 weeks"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "36"
+				Type = "Separator"
+				Item = "2 weeks"
+				IsDisabled = "0"/>
+			<MenuPanelItem
+				ItemID = "37"
+				Type = "CommandOption"
+				Item = "     1 month"
+				IsDisabled = "0"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "346227240"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

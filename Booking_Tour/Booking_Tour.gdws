@@ -1,0 +1,59 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "6">
+		<File
+			FileID = "4ABC859F-B070-4178-9DE68D834006B7D4"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Footer.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "7238707F-A7EC-4DDB-83EE13B110BE7D23"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Header.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "32C4446D-F6FA-49E0-97DE0B55C47E51E9"
+			RootPath = "$Container"
+			RelativePathname = "Masters\Header_BookingTour.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B5997646-0B1B-430D-AEF73A2AD125094E"
+			RootPath = "$Container"
+			RelativePathname = "Footer_BookingTour.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
+			RootPath = "$Container"
+			RelativePathname = "Home.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "BB3EB98F-9C27-408B-89BB82BF5555F8FB"
+			RootPath = "$Container"
+			RelativePathname = "Homepage_BookingTour.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B31F3B88-BA4E-4FB0-9DEBD8538CC41A3C"
+			RootPath = "$Container"
+			RelativePathname = "Privacy Policy.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "BFE8735E-8D96-4767-8F23A206F199966F"
+			RootPath = "$Container"
+			RelativePathname = "SideBar.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "623D2409-0104-4085-B1716E860D0BE5B7"
+			RootPath = "$Container"
+			RelativePathname = "SideBar2.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B0C8E85F-983D-471B-99DDA137383F0C8E"
+			RootPath = "$Container"
+			RelativePathname = "SEARCH_PLACE_hoa khach.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

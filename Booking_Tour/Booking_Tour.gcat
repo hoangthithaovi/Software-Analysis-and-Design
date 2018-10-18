@@ -1,0 +1,152 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "004CFB86-3469-49BE-B05EED184A332634"
+			RelativePath = "Downloads.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Downloads.gui"/>
+		<FileInfo
+			ID = "1EE18DED-9224-4D35-BB55682FC92FD731"
+			RelativePath = "Images\image3-2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\image3-2.png"/>
+		<FileInfo
+			ID = "2E213A2F-48D7-4F8B-9C8250DE160D0E87"
+			RelativePath = "Images\index_search_955507.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\index_search_955507.png"/>
+		<FileInfo
+			ID = "2F5E8CDE-9F4B-48B4-9DDBF422E491181B"
+			RelativePath = "Images\bancotien.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\bancotien.jpg"/>
+		<FileInfo
+			ID = "32C4446D-F6FA-49E0-97DE0B55C47E51E9"
+			RelativePath = "Masters\Header_BookingTour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Header_BookingTour.gui"/>
+		<FileInfo
+			ID = "411305BB-1BC8-47AA-8BFC3191DEE49975"
+			RelativePath = "Images\Sun-Wheel-Asia-Park-e1502987182896.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\Sun-Wheel-Asia-Park-e1502987182896.png"/>
+		<FileInfo
+			ID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
+			RelativePath = "Home.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Home.gui"/>
+		<FileInfo
+			ID = "4ABC859F-B070-4178-9DE68D834006B7D4"
+			RelativePath = "Masters\Footer.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Footer.gui"/>
+		<FileInfo
+			ID = "4B3BFC6B-9B35-46F4-823B2D6977B6B3E4"
+			RelativePath = "Images\images.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\images.jpg"/>
+		<FileInfo
+			ID = "51AD5DB3-8DC4-4647-BE95D64772F7F4BD"
+			RelativePath = "Images\kisspng-logo-graphic-design-design-5abbdba715d519.2815318515222609030894.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\kisspng-logo-graphic-design-design-5abbdba715d519.2815318515222609030894.jpg"/>
+		<FileInfo
+			ID = "5464959A-42E5-41A8-8E37C33769865CAF"
+			RelativePath = "About Us.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "About Us.gui"/>
+		<FileInfo
+			ID = "60735446-378C-48CA-BAB7BA76D15C6144"
+			RelativePath = "Product A Detail.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Product A Detail.gui"/>
+		<FileInfo
+			ID = "623D2409-0104-4085-B1716E860D0BE5B7"
+			RelativePath = "SideBar2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SideBar2.gui"/>
+		<FileInfo
+			ID = "6D6DA007-4DC0-4ACE-B7828FE82E9D3475"
+			RelativePath = "Images\MB__search.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\MB__search.png"/>
+		<FileInfo
+			ID = "7238707F-A7EC-4DDB-83EE13B110BE7D23"
+			RelativePath = "Masters\Header.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Header.gui"/>
+		<FileInfo
+			ID = "79400EA3-40C1-473D-B528F9C8218F8D80"
+			RelativePath = "Images\1508402210_Travel-Hospitality.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\1508402210_Travel-Hospitality.jpg"/>
+		<FileInfo
+			ID = "A78DF661-41DD-41CE-B6F66094774C3465"
+			RelativePath = "Booking_Tour.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "Booking_Tour.autosave"/>
+		<FileInfo
+			ID = "B0C8E85F-983D-471B-99DDA137383F0C8E"
+			RelativePath = "SEARCH_PLACE_hoa khach.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SEARCH_PLACE_hoa khach.gui"/>
+		<FileInfo
+			ID = "B31F3B88-BA4E-4FB0-9DEBD8538CC41A3C"
+			RelativePath = "Privacy Policy.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Privacy Policy.gui"/>
+		<FileInfo
+			ID = "B5997646-0B1B-430D-AEF73A2AD125094E"
+			RelativePath = "Footer_BookingTour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Footer_BookingTour.gui"/>
+		<FileInfo
+			ID = "BB3EB98F-9C27-408B-89BB82BF5555F8FB"
+			RelativePath = "Homepage_BookingTour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Homepage_BookingTour.gui"/>
+		<FileInfo
+			ID = "BF22D128-E4EB-410C-A10523BAFABD6F23"
+			RelativePath = "Images\download.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\download.png"/>
+		<FileInfo
+			ID = "BFE8735E-8D96-4767-8F23A206F199966F"
+			RelativePath = "SideBar.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SideBar.gui"/>
+		<FileInfo
+			ID = "C14A5356-4595-4A9D-B6B8445072CFD053"
+			RelativePath = "Images\Nui-Ngu-Hanh-Son.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\Nui-Ngu-Hanh-Son.png"/>
+		<FileInfo
+			ID = "C9D18DEF-2B69-416E-B5E15AC32E2F5858"
+			RelativePath = "Images\chua-linh-ung-son-tra-da-nang-1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\chua-linh-ung-son-tra-da-nang-1.jpg"/>
+		<FileInfo
+			ID = "D71818A3-854B-4CB0-84474BDCE99EF496"
+			RelativePath = "Images\01071.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\01071.png"/>
+		<FileInfo
+			ID = "EAC51686-A4A6-469B-B1BE3B2A60417FFC"
+			RelativePath = "WinCustomColours.ini"
+			OriginalRoot = "$Project"
+			OriginalPath = "WinCustomColours.ini"/>
+		<FileInfo
+			ID = "F89291E9-373D-4C4B-8E43545FC7B62B4D"
+			RelativePath = "Images\cau-vang-sun-world-ba-na-hills-13.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\cau-vang-sun-world-ba-na-hills-13.jpg"/>
+		<FileInfo
+			ID = "FB7B6AC7-1D44-4523-95A615843C59CCE7"
+			RelativePath = "Products.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Products.gui"/>
+	</Files>
+</Catalogue>

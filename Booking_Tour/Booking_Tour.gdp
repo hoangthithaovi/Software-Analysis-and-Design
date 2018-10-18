@@ -1,0 +1,52 @@
+<Project
+	CID = "1"
+	NextCID = "4">
+	<Links
+		CID = "1">
+		<Link
+			RootPath = "$Application"
+			Filename = "Web Widgets Library.gdp"
+			RelativePath = "Libraries\Web Widgets Library\"/>
+		<Link
+			RootPath = "$Application"
+			Filename = "Windows Library.gdp"
+			RelativePath = "Libraries\Windows Library\"/>
+	</Links>
+	<MainDesign
+		CID = "2"
+		FileID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
+		RootPath = "$Container"
+		RelativePathname = "Home.gui"/>
+	<Options
+		CID = "3"
+		UseProjectVisualStyle = "0"
+		DesignVisualStyle = "Windows Vista"
+		DesignColourScheme = "Vista Default"
+		DesignProjectTheme = ""
+		DesignProjectSwatch = ""
+		DesignDefTypeface = "Microsoft Sans Serif"
+		DesignDefFontScale = "1.000000"
+		DesignMonoDrawing = "0"
+		DesignMonoImages = "0"
+		SimulationVisualStyle = "Windows Vista"
+		SimulationColourScheme = "Vista Default"
+		SimulationProjectTheme = ""
+		SimulationProjectSwatch = ""
+		SimulationDefTypeface = "Microsoft Sans Serif"
+		SimulationDefFontScale = "1.000000"
+		SimulationMonoDrawing = "0"
+		SimulationMonoImages = "0"
+		SimBrowserBarOption = "Auto"
+		SimAlwaysHideScrollBars = "0"
+		SimBackgroundFill = "Default"
+		SimBackgroundColour1 = "255,255,255,0,0"
+		SimBackgroundColour2 = "255,255,255,0,0"
+		SimBackgroundText = "Prototype"
+		SimBackgroundTextPosition = "TopLeft"
+		SimShowBackgroundStartDesignName = "1"
+		SimBackgroundTextColour = "48,128,48,0,0"
+		NextCID = "2">
+		<DataSets
+			CID = "1"/>
+	</Options>
+</Project>
