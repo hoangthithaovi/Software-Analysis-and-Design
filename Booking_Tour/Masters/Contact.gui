@@ -1,0 +1,83 @@
+<Screen
+	CID = "1620976399"
+	AppID = "2"
+	AppVer = "5.1.167.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "788291593"
+			Type = "WebPage"
+			X = "-61"
+			Y = "-163"
+			Width = "705"
+			Height = "841"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			Theme = ""
+			Part = ""
+			Style = ""
+			BackgroundColour = "255,255,255,0,0"
+			BorderColour = "160,160,160,0,0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			BorderWidth = "0"
+			PageHeight = "400"/>
+		<Element
+			CID = "264833396"
+			Type = "Component"
+			X = "-52"
+			Y = "-156"
+			Width = "686"
+			Height = "105"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			Theme = ""
+			Part = ""
+			Style = ""
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "32C4446D-F6FA-49E0-97DE0B55C47E51E9"
+			RootPath = "$Container"
+			Filename = "Header_BookingTour.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ScrollBarHorz = "Auto"
+			ScrollBarVert = "Auto"
+			StepSizeHorz = "4"
+			StepSizeVert = "4"
+			MaintainSize = "0"
+			AllowDragScrolling = "0"
+			UseInertia = "0"
+			SnapScrolling = "0"
+			AnimateSnapping = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1620979795"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

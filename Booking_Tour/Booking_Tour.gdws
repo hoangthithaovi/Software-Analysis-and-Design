@@ -4,31 +4,26 @@
 	IconCategory = "Miscellaneous">
 	<OpenFiles
 		CID = "1"
-		LastActive = "6">
+		LastActive = "11">
 		<File
-			FileID = "4ABC859F-B070-4178-9DE68D834006B7D4"
+			FileID = "A282E6BC-342C-413C-9ECDA1EB1F913641"
 			RootPath = "$Container"
-			RelativePathname = "Masters\Footer.gui"
+			RelativePathname = "Ngũ Hành Sơn.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "7238707F-A7EC-4DDB-83EE13B110BE7D23"
+			FileID = "F87678B3-72C1-4B3A-9D49BEB2D594549E"
 			RootPath = "$Container"
-			RelativePathname = "Masters\Header.gui"
+			RelativePathname = "BookTour.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "32C4446D-F6FA-49E0-97DE0B55C47E51E9"
+			FileID = "9085DD89-B569-4E42-A5F5A1125463D00C"
 			RootPath = "$Container"
-			RelativePathname = "Masters\Header_BookingTour.gui"
+			RelativePathname = "Book_Ticket.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "B5997646-0B1B-430D-AEF73A2AD125094E"
+			FileID = "1E363838-74B3-4AE9-8CDCB635E51B7C3A"
 			RootPath = "$Container"
-			RelativePathname = "Footer_BookingTour.gui"
-			ViewSettings = ""/>
-		<File
-			FileID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
-			RootPath = "$Container"
-			RelativePathname = "Home.gui"
+			RelativePathname = "Payment.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "BB3EB98F-9C27-408B-89BB82BF5555F8FB"
@@ -36,24 +31,34 @@
 			RelativePathname = "Homepage_BookingTour.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "B31F3B88-BA4E-4FB0-9DEBD8538CC41A3C"
+			FileID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
 			RootPath = "$Container"
-			RelativePathname = "Privacy Policy.gui"
+			RelativePathname = "Home.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "BFE8735E-8D96-4767-8F23A206F199966F"
+			FileID = "7238707F-A7EC-4DDB-83EE13B110BE7D23"
 			RootPath = "$Container"
-			RelativePathname = "SideBar.gui"
+			RelativePathname = "Masters\Header.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "623D2409-0104-4085-B1716E860D0BE5B7"
+			FileID = "FB7B6AC7-1D44-4523-95A615843C59CCE7"
 			RootPath = "$Container"
-			RelativePathname = "SideBar2.gui"
+			RelativePathname = "Products.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "B0C8E85F-983D-471B-99DDA137383F0C8E"
+			FileID = "2189E989-FF5B-431A-8E5F76D8AD583C0C"
 			RootPath = "$Container"
-			RelativePathname = "SEARCH_PLACE_hoa khach.gui"
+			RelativePathname = "AboutUs.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "31F5126F-7863-4D9C-BA37E4B5933B014A"
+			RootPath = "$Container"
+			RelativePathname = "Contact1.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "A83675AF-AB62-4B07-8799047DE04C0634"
+			RootPath = "$Container"
+			RelativePathname = "ff.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>

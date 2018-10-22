@@ -9,10 +9,25 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Downloads.gui"/>
 		<FileInfo
+			ID = "028CBEEF-FAAD-40F1-B693A4109278B44B"
+			RelativePath = "Images\3-2-300x300-300x300.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\3-2-300x300-300x300.jpg"/>
+		<FileInfo
+			ID = "1E363838-74B3-4AE9-8CDCB635E51B7C3A"
+			RelativePath = "Payment.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Payment.gui"/>
+		<FileInfo
 			ID = "1EE18DED-9224-4D35-BB55682FC92FD731"
 			RelativePath = "Images\image3-2.png"
 			OriginalRoot = "$Project"
 			OriginalPath = "Images\image3-2.png"/>
+		<FileInfo
+			ID = "2189E989-FF5B-431A-8E5F76D8AD583C0C"
+			RelativePath = "AboutUs.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "AboutUs.gui"/>
 		<FileInfo
 			ID = "2E213A2F-48D7-4F8B-9C8250DE160D0E87"
 			RelativePath = "Images\index_search_955507.png"
@@ -24,15 +39,35 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Images\bancotien.jpg"/>
 		<FileInfo
+			ID = "31F5126F-7863-4D9C-BA37E4B5933B014A"
+			RelativePath = "Contact1.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Contact1.gui"/>
+		<FileInfo
 			ID = "32C4446D-F6FA-49E0-97DE0B55C47E51E9"
 			RelativePath = "Masters\Header_BookingTour.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Masters\Header_BookingTour.gui"/>
 		<FileInfo
+			ID = "358F15C5-EDD6-477A-B14012A131A05F86"
+			RelativePath = "Images\2-2-300x300-1-300x300.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\2-2-300x300-1-300x300.jpg"/>
+		<FileInfo
+			ID = "3FD88BD1-93F0-46D8-B73720802D85349B"
+			RelativePath = "Masters\Contact.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Contact.gui"/>
+		<FileInfo
 			ID = "411305BB-1BC8-47AA-8BFC3191DEE49975"
 			RelativePath = "Images\Sun-Wheel-Asia-Park-e1502987182896.png"
 			OriginalRoot = "$Project"
 			OriginalPath = "Images\Sun-Wheel-Asia-Park-e1502987182896.png"/>
+		<FileInfo
+			ID = "41997266-59D0-4E56-AFA6EF80FB01E44B"
+			RelativePath = "Images\Untitled-3-300x300-1-300x300.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\Untitled-3-300x300-1-300x300.jpg"/>
 		<FileInfo
 			ID = "4A3663A4-C878-42C7-9272D9FDDACAE761"
 			RelativePath = "Home.gui"
@@ -84,10 +119,41 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Images\1508402210_Travel-Hospitality.jpg"/>
 		<FileInfo
+			ID = "7CBDB5D7-916D-48F3-ACE4934ACD1DD71B"
+			RelativePath = "Masters\Header_Tour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Masters\Header_Tour.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "8F90CA23-1A86-4133-94BD89D69AD92EB0"
+			RelativePath = "Images\IMG_1062.jpeg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\IMG_1062.jpeg"/>
+		<FileInfo
+			ID = "9085DD89-B569-4E42-A5F5A1125463D00C"
+			RelativePath = "Book_Ticket.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Book_Ticket.gui"/>
+		<FileInfo
+			ID = "A282E6BC-342C-413C-9ECDA1EB1F913641"
+			RelativePath = "Ngũ Hành Sơn.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Ngũ Hành Sơn.gui"/>
+		<FileInfo
 			ID = "A78DF661-41DD-41CE-B6F66094774C3465"
 			RelativePath = "Booking_Tour.autosave"
 			OriginalRoot = "$Project"
 			OriginalPath = "Booking_Tour.autosave"/>
+		<FileInfo
+			ID = "A83675AF-AB62-4B07-8799047DE04C0634"
+			RelativePath = "ff.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ff.gui"/>
+		<FileInfo
+			ID = "AB9E6FE7-3E8B-494B-AA814F014F0D9BB9"
+			RelativePath = "Images\4-2-300x300-1-300x300.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\4-2-300x300-1-300x300.jpg"/>
 		<FileInfo
 			ID = "B0C8E85F-983D-471B-99DDA137383F0C8E"
 			RelativePath = "SEARCH_PLACE_hoa khach.gui"
@@ -134,10 +200,20 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Images\01071.png"/>
 		<FileInfo
+			ID = "D87A4680-3E78-4D25-9A6AB373FE3E646D"
+			RelativePath = "HomePageBookingTour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "HomePageBookingTour.gui"/>
+		<FileInfo
 			ID = "EAC51686-A4A6-469B-B1BE3B2A60417FFC"
 			RelativePath = "WinCustomColours.ini"
 			OriginalRoot = "$Project"
 			OriginalPath = "WinCustomColours.ini"/>
+		<FileInfo
+			ID = "F87678B3-72C1-4B3A-9D49BEB2D594549E"
+			RelativePath = "BookTour.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "BookTour.gui"/>
 		<FileInfo
 			ID = "F89291E9-373D-4C4B-8E43545FC7B62B4D"
 			RelativePath = "Images\cau-vang-sun-world-ba-na-hills-13.jpg"
